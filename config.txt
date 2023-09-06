@@ -9,5 +9,4 @@ Tester = MX57
 Date = 2023-02-08
 StartTime = 10:00
 EndTime = 18:00
-Email = justine.jimenez@ams-osram.com
-
+Email = **************
