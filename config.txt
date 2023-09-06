@@ -1,0 +1,13 @@
+[EPS-VARIABLES]
+Link = https://apex.ams.com/ords/appsprod/f?p=EPS_START:1:104349989965242:::::
+User = jjie
+PW = @P@88w0rd!123456
+PartName = 511992014
+CodeName = DRAPER
+MarketingCode = TCS3448
+Tester = MX57
+Date = 2023-02-08
+StartTime = 10:00
+EndTime = 18:00
+Email = justine.jimenez@ams-osram.com
+
