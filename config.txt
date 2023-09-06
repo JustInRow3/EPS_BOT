@@ -1,7 +1,7 @@
 [EPS-VARIABLES]
 Link = https://apex.ams.com/ords/appsprod/f?p=EPS_START:1:104349989965242:::::
 User = jjie
-PW = @P@88w0rd!123456
+PW = ********
 PartName = 511992014
 CodeName = DRAPER
 MarketingCode = TCS3448
